@@ -25,4 +25,4 @@
 ### Related Sites
 - [Personal Website](https://azuco.sakura.ne.jp/)
 - [twitter](https://x.com/azuco_twt/)
-- [e-mail](azuco@azuco.sakura.ne.jp)
+- [e-mail](mailto:azuco@azuco.sakura.ne.jp)
