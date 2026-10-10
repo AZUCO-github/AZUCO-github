@@ -26,7 +26,11 @@
 switch ロックマンX アニバーサリー コレクション 1　　
 ![switch ロックマンX アニバーサリー コレクション 1](rac1.jpg)
 
-
+飛翔 鮫！鮫！鮫！  
+![飛翔 鮫！鮫！鮫！](hsss.jpg)　　
+（ワードナの森　用　FDS HLE エミュレータ）  
+  
+switch 聖剣伝説コレクション  
 
 ### Related Sites
 - [Personal Website](https://azuco.sakura.ne.jp/)
