@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | A-SATURN G3 | SEGA Saturn | プライベートリポジトリで基本的にバイナリ非公開 |
 | AX68K | X68000 | MC680x0コアを開発するのが目的 |
-| A-Next | NeXT CUBE | MC680x0コアを開発するのが目的 |
+| A-NeXT | NeXT CUBE | MC680x0コアを開発するのが目的 |
 | Hornet | KONAMI Hornet PCB | PowerPCコアを開発するのが目的 |
 | APS1 | Sony Playstation 1 | R3000コアを開発するのが目的、PS1が一番好き |
 
