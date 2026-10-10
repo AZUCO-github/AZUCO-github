@@ -4,6 +4,7 @@
 
 ## Projects
 ### Emulator development
+| Name | Target | Description |
 | --- | --- | --- |
 | A-SATURN G3 | SEGA Saturn | プライベートリポジトリで基本的にバイナリ非公開 |
 | AX68K | X68000 | MC680x0コアを開発するのが目的 |
@@ -16,6 +17,7 @@
 解析の修行として行ったので、現在は基本的にコンバータは作っていない  
 
 ### Tools
+| Name | Description |
 | --- | --- |
 | AZUCO ZIP file Splitter | 破損したZIPファイルから、個別のデータを可能な限り救出するためのツール |
 | ASPT | Windows記憶域プールの問題をきっかけに作成した調査用ツール |
